@@ -1,0 +1,14 @@
+{
+  "slug": "introduction-to-repository-management",
+  "status": "active",
+  "name": "Introduction to Repository Management",
+  "icon": "repo",
+  "description": "Learn the basics of several features for a collaborative, friendly, and healthy project.",
+  "repositoryUrl": "https://github.com/skills/introduction-to-repository-management",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "fundamentals",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": 300, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}

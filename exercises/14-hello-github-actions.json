@@ -1,0 +1,14 @@
+{
+  "slug": "hello-github-actions",
+  "status": "active",
+  "name": "Hello GitHub Actions",
+  "icon": "workflow",
+  "description": "Create a GitHub Action and use it in a workflow.",
+  "repositoryUrl": "https://github.com/skills-dev/hello-github-actions",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "automation",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": 200, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}
