@@ -1,0 +1,14 @@
+{
+  "slug": "code-with-codespaces",
+  "status": "active",
+  "name": "Code with Codespaces",
+  "icon": "codespaces",
+  "description": "Develop code using GitHub Codespaces and Visual Studio Code.",
+  "repositoryUrl": "https://github.com/skills-dev/code-with-codespaces",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "fundamentals",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}
