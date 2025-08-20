@@ -8,7 +8,7 @@
   "issueUrl": "https://learn.github.com",
   "pathSlug": "automation",
   "dependencies": ["hello-github-actions"],
-  "position": { "x": -100, "y": 100 },
+  "position": { "x": -50, "y": 100 },
   "products": ["Repository"],
   "difficulty": "Intermediate"
 }
