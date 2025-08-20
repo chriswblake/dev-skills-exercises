@@ -2,7 +2,7 @@
   "slug": "customize-your-github-copilot-experience",
   "status": "active",
   "name": "Customize your GitHub Copilot Experience",
-  "icon": "tools",
+  "icon": "paintbrush",
   "description": "Customize Copilot with custom instructions, prompts, and chat modes for your development workflows.",
   "repositoryUrl": "https://github.com/skills/customize-your-github-copilot-experience",
   "issueUrl": "https://learn.github.com",
