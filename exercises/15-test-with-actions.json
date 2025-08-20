@@ -1,0 +1,14 @@
+{
+  "slug": "test-with-actions",
+  "status": "active",
+  "name": "Test with Actions",
+  "icon": "beaker",
+  "description": "Create workflows that enable you to use Continuous Integration (CI) for your projects.",
+  "repositoryUrl": "https://github.com/skills-dev/test-with-actions",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "automation",
+  "dependencies": ["hello-github-actions"],
+  "position": { "x": -100, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Intermediate"
+}
