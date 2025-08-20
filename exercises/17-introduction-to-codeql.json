@@ -1,0 +1,14 @@
+{
+  "slug": "introduction-to-codeql",
+  "status": "active",
+  "name": "Introduction to CodeQL",
+  "icon": "code-review",
+  "description": "Learn how to enable CodeQL to secure your code.",
+  "repositoryUrl": "https://github.com/skills-dev/introduction-to-codeql",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "security",
+  "dependencies": ["introduction-to-repository-management"],
+  "position": { "x": 100, "y": 100 },
+  "products": ["Code Scanning"],
+  "difficulty": "Intermediate"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "secure-repository-supply-chain",
+  "status": "active",
+  "name": "Secure your repository supply chain",
+  "icon": "shield",
+  "description": "Secure your supply chain, patch dependency vulnerabilities.",
+  "repositoryUrl": "https://github.com/skills-dev/secure-repository-supply-chain",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "security",
+  "dependencies": ["introduction-to-repository-management"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Dependabot"],
+  "difficulty": "Beginner"
+}
