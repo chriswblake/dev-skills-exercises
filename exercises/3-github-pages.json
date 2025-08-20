@@ -1,0 +1,14 @@
+{
+  "slug": "github-pages",
+  "status": "active",
+  "name": "GitHub Pages",
+  "icon": "browser",
+  "description": "Create a site or blog from your GitHub repositories with GitHub Pages.",
+  "repositoryUrl": "https://github.com/skills-dev/github-pages",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "fundamentals",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": -350, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}
