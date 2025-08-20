@@ -5,7 +5,7 @@
   "icon": "codespaces",
   "description": "Develop code using GitHub Codespaces and Visual Studio Code.",
   "repositoryUrl": "https://github.com/skills-dev/code-with-codespaces",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "fundamentals",
   "dependencies": ["introduction-to-github"],
   "position": { "x": -50, "y": 100 },

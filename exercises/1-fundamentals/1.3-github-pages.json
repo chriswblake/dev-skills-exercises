@@ -5,7 +5,7 @@
   "icon": "browser",
   "description": "Create a site or blog from your GitHub repositories with GitHub Pages.",
   "repositoryUrl": "https://github.com/skills-dev/github-pages",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "fundamentals",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 50, "y": 100 },

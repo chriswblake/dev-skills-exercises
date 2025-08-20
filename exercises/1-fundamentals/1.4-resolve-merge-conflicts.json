@@ -5,7 +5,7 @@
   "icon": "git-merge",
   "description": "Learn why conflicts happen and how to resolve them.",
   "repositoryUrl": "https://github.com/skills-dev/resolve-merge-conflicts",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "fundamentals",
   "dependencies": ["introduction-to-github"],
   "position": { "x": -150, "y": 100 },

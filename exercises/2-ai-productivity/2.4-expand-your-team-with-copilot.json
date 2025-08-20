@@ -5,7 +5,7 @@
   "icon": "people",
   "description": "Let Copilot coding agent tackle your issues directly on GitHub. No coding environment needed.",
   "repositoryUrl": "https://github.com/skills/expand-your-team-with-copilot",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "ai-productivity",
   "dependencies": ["getting-started-with-github-copilot"],
   "position": { "x": 100, "y": 100 },

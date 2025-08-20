@@ -5,7 +5,7 @@
   "icon": "beaker",
   "description": "Create workflows that enable you to use Continuous Integration (CI) for your projects.",
   "repositoryUrl": "https://github.com/skills-dev/test-with-actions",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "automation",
   "dependencies": ["hello-github-actions"],
   "position": { "x": 50, "y": 100 },

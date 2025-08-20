@@ -5,7 +5,7 @@
   "icon": "arrow-switch",
   "description": "Create a sample Azure DevOps project then migrate it to GitHub using the CLI.",
   "repositoryUrl": "https://github.com/skills/migrate-ado-repository",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "migration",
   "dependencies": [ "code-with-codespaces", "hello-github-actions"],
   "position": { "x": -50, "y": 100 },

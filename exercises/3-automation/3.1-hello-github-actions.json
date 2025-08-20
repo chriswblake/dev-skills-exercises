@@ -5,7 +5,7 @@
   "icon": "workflow",
   "description": "Create a GitHub Action and use it in a workflow.",
   "repositoryUrl": "https://github.com/skills-dev/hello-github-actions",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "automation",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 150, "y": 100 },

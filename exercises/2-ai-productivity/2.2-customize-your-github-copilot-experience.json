@@ -5,7 +5,7 @@
   "icon": "paintbrush",
   "description": "Customize Copilot with custom instructions, prompts, and chat modes for your development workflows.",
   "repositoryUrl": "https://github.com/skills/customize-your-github-copilot-experience",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "ai-productivity",
   "dependencies": ["getting-started-with-github-copilot"],
   "position": { "x": 0, "y": 100 },

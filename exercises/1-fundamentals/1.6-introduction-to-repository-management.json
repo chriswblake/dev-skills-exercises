@@ -5,7 +5,7 @@
   "icon": "repo-locked",
   "description": "Learn the basics of several features for a collaborative, friendly, and healthy project.",
   "repositoryUrl": "https://github.com/skills/introduction-to-repository-management",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "fundamentals",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 250, "y": 200 },

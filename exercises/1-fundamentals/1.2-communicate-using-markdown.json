@@ -5,7 +5,7 @@
   "icon": "markdown",
   "description": "Organize ideas and collaborate using Markdown, a lightweight language for text formatting.",
   "repositoryUrl": "https://github.com/skills/markdown-portfolio",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "fundamentals",
   "dependencies": ["introduction-to-github"],
   "position": { "x": -250, "y": 100 },

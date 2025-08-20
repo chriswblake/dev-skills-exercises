@@ -5,7 +5,7 @@
   "icon": "package",
   "description": "Teach GitHub Copilot about your industry, lingo, and company processes.",
   "repositoryUrl": "https://github.com/skills/your-first-extension-for-github-copilot",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "ai-productivity",
   "dependencies": ["customize-your-github-copilot-experience"],
   "position": { "x": 100, "y": 100 },

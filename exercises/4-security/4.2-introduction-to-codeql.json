@@ -5,7 +5,7 @@
   "icon": "codescan-checkmark",
   "description": "Learn how to enable CodeQL to secure your code.",
   "repositoryUrl": "https://github.com/skills-dev/introduction-to-codeql",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "security",
   "dependencies": ["introduction-to-repository-management"],
   "position": { "x": 100, "y": 100 },

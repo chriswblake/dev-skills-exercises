@@ -5,7 +5,7 @@
   "icon": "copilot",
   "description": "Learn, build, debug, and ship faster than ever with your favorite AI pair programmer.",
   "repositoryUrl": "https://github.com/skills/getting-started-with-github-copilot",
-  "issueUrl": "https://learn.github.com",
+  "issueUrl": "",
   "pathSlug": "ai-productivity",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 0, "y": 250 },
