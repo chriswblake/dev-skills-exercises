@@ -8,7 +8,7 @@
   "issueUrl": "https://learn.github.com",
   "pathSlug": "ai-productivity",
   "dependencies": ["introduction-to-github"],
-  "position": { "x": 0, "y": 100 },
+  "position": { "x": 0, "y": 250 },
   "products": ["Copilot"],
   "difficulty": "Beginner"
 }
