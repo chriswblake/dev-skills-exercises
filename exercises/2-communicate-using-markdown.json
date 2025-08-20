@@ -1,0 +1,14 @@
+{
+  "slug": "communicate-using-markdown",
+  "status": "active",
+  "name": "Communicate using Markdown",
+  "icon": "markdown",
+  "description": "Organize ideas and collaborate using Markdown, a lightweight language for text formatting.",
+  "repositoryUrl": "https://github.com/skills/markdown-portfolio",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "fundamentals",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": -350, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}
