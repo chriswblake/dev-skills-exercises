@@ -1,0 +1,14 @@
+{
+  "slug": "build-applications-w-copilot-agent-mode",
+  "status": "active",
+  "name": "Build applications with GitHub Copilot agent mode",
+  "icon": "rocket",
+  "description": "Build multi-tier applications that use GitHub Copilot agent mode to interact with users and external systems.",
+  "repositoryUrl": "https://github.com/skills/build-applications-w-copilot-agent-mode",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "ai-productivity",
+  "dependencies": ["customize-your-github-copilot-experience"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Advanced"
+}

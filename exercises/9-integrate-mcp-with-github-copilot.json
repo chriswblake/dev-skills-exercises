@@ -1,0 +1,14 @@
+{
+  "slug": "integrate-mcp-with-github-copilot",
+  "status": "active",
+  "name": "Integrate MCP with GitHub Copilot",
+  "icon": "plug",
+  "description": "Give GitHub Copilot more tools to enhance its capabilities.",
+  "repositoryUrl": "https://github.com/skills/integrate-mcp-with-copilot",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "ai-productivity",
+  "dependencies": ["getting-started-with-github-copilot"],
+  "position": { "x": -100, "y": 100 },
+  "products": ["Copilot"],
+  "difficulty": "Intermediate"
+}

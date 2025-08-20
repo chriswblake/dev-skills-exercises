@@ -9,6 +9,6 @@
   "pathSlug": "ai-productivity",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 0, "y": 100 },
-  "products": ["Repository"],
+  "products": ["Copilot"],
   "difficulty": "Beginner"
 }

@@ -1,0 +1,14 @@
+{
+  "slug": "modernize-your-legacy-code-with-github-copilot",
+  "status": "active",
+  "name": "Modernize your legacy code with GitHub Copilot",
+  "icon": "history",
+  "description": "Modernize a school's legacy accounting system from Cobol to Node.js with the help of GitHub Copilot.",
+  "repositoryUrl": "https://github.com/skills/modernize-your-legacy-code-with-github-copilot",
+  "issueUrl": "https://learn.github.com",
+  "pathSlug": "ai-productivity",
+  "dependencies": ["customize-your-github-copilot-experience"],
+  "position": { "x": -100, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Advanced"
+}
