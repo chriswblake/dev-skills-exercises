@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "organization",
   "dependencies": ["introduction-to-github"],
-  "position": { "x": 0, "y": 100 },
-  "products": ["Repository"],
+  "position": { "x": 300, "y": 100 },
+  "products": ["Organization"],
   "difficulty": "Beginner"
 }

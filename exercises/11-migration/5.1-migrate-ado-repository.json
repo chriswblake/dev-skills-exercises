@@ -7,8 +7,8 @@
   "repositoryUrl": "https://github.com/skills/migrate-ado-repository",
   "issueUrl": "",
   "pathSlug": "migration",
-  "dependencies": [ "code-with-codespaces", "hello-github-actions"],
-  "position": { "x": -50, "y": 100 },
+  "dependencies": ["hello-github-actions"],
+  "position": { "x": 0, "y": 300 },
   "products": ["Repository"],
   "difficulty": "Advanced"
 }

@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "security",
   "dependencies": ["introduction-to-github"],
-  "position": { "x": 200, "y": 100 },
+  "position": { "x": 250, "y": 100 },
   "products": ["Repository", "Dependabot", "Code Scanning"],
   "difficulty": "Beginner"
 }

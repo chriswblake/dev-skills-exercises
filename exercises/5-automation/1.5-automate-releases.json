@@ -7,7 +7,7 @@
   "repositoryUrl": "",
   "issueUrl": "",
   "pathSlug": "automation",
-  "dependencies": ["tags-and-releases", "hello-github-actions"],
+  "dependencies": ["hello-github-actions"],
   "position": { "x": 150, "y": 100 },
   "products": ["Actions"],
   "difficulty": "Intermediate"

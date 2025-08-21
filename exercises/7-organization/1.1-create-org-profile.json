@@ -9,6 +9,6 @@
   "pathSlug": "organization",
   "dependencies": ["introduction-to-organizations"],
   "position": { "x": -150, "y": 100 },
-  "products": ["Repository"],
+  "products": ["Organization"],
   "difficulty": "Beginner"
 }
