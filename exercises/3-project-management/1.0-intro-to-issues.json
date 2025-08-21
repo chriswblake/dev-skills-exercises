@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "project-management",
   "dependencies": ["introduction-to-github"],
-  "position": { "x": 650, "y": 100 },
+  "position": { "x": 550, "y": 100 },
   "products": ["Repository", "Issues"],
   "difficulty": "Beginner"
 }
