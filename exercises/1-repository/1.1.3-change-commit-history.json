@@ -1,0 +1,14 @@
+{
+  "slug": "change-commit-history",
+  "status": "tentative",
+  "name": "Change Commit History",
+  "icon": "HistoryIcon",
+  "description": "Learn how to rewrite Git history using rebase, squash, and other advanced Git techniques.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "repository",
+  "dependencies": ["branching-and-merging"],
+  "position": { "x": 100, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Advanced"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "contribute-to-open-source",
+  "status": "tentative",
+  "name": "Contribute to Open Source",
+  "icon": "HeartIcon",
+  "description": "Learn how to contribute to open source projects through forks and pull requests.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "repository",
+  "dependencies": ["forking"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Intermediate"
+}

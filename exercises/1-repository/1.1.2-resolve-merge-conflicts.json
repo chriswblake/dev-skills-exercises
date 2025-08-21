@@ -1,13 +1,13 @@
 {
   "slug": "resolve-merge-conflicts",
-  "status": "active",
+  "status": "tentative",
   "name": "Resolve merge conflicts",
   "icon": "GitMergeIcon",
   "description": "Learn why conflicts happen and how to resolve them.",
-  "repositoryUrl": "https://github.com/skills-dev/resolve-merge-conflicts",
+  "repositoryUrl": "",
   "issueUrl": "",
   "pathSlug": "repository",
-  "dependencies": ["introduction-to-git"],
+  "dependencies": ["branching-and-merging"],
   "position": { "x": 0, "y": 100 },
   "products": ["Repository"],
   "difficulty": "Intermediate"

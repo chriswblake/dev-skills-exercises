@@ -1,0 +1,14 @@
+{
+  "slug": "forking",
+  "status": "tentative",
+  "name": "Forking",
+  "icon": "RepoForkedIcon",
+  "description": "Learn how to fork repositories and contribute to projects you don't own.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "repository",
+  "dependencies": ["introduction-to-git"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}

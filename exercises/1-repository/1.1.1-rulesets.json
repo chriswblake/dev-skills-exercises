@@ -1,0 +1,14 @@
+{
+  "slug": "rulesets",
+  "status": "tentative",
+  "name": "Repository Rulesets",
+  "icon": "ShieldIcon",
+  "description": "Learn how to protect your repository with branch protection rules and rulesets.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "repository",
+  "dependencies": ["branching-and-merging"],
+  "position": { "x": -100, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Intermediate"
+}

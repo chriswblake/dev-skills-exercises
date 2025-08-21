@@ -1,0 +1,14 @@
+{
+  "slug": "tags-and-releases",
+  "status": "tentative",
+  "name": "Tags and Releases",
+  "icon": "TagIcon",
+  "description": "Learn how to create tags and releases to mark important milestones in your project.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "repository",
+  "dependencies": ["introduction-to-git"],
+  "position": { "x": 100, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}

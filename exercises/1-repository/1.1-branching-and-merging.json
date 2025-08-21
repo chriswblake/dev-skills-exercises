@@ -1,0 +1,14 @@
+{
+  "slug": "branching-and-merging",
+  "status": "tentative",
+  "name": "Branching and Merging",
+  "icon": "GitBranchIcon",
+  "description": "Learn how to create branches, make changes, and merge them back into the main branch.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "repository",
+  "dependencies": ["introduction-to-git"],
+  "position": { "x": -100, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}
