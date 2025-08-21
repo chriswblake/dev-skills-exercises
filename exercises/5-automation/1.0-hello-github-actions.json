@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "automation",
   "dependencies": ["introduction-to-github"],
-  "position": { "x": 300, "y": 300 },
+  "position": { "x": 400, "y": 400 },
   "products": ["Repository"],
   "difficulty": "Beginner"
 }
