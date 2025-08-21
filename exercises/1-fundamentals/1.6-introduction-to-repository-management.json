@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "fundamentals",
   "dependencies": ["introduction-to-github"],
-  "position": { "x": 250, "y": 200 },
+  "position": { "x": 300, "y": 200 },
   "products": ["Repository"],
   "difficulty": "Beginner"
 }
