@@ -6,7 +6,7 @@
   "description": "Learn the basics of several features for a collaborative, friendly, and healthy project.",
   "repositoryUrl": "https://github.com/skills/introduction-to-repository-management",
   "issueUrl": "",
-  "pathSlug": "fundamentals",
+  "pathSlug": "repository",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 300, "y": 200 },
   "products": ["Repository"],

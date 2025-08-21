@@ -6,7 +6,7 @@
   "description": "Create a site or blog from your GitHub repositories with GitHub Pages.",
   "repositoryUrl": "https://github.com/skills-dev/github-pages",
   "issueUrl": "",
-  "pathSlug": "fundamentals",
+  "pathSlug": "repository",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 50, "y": 100 },
   "products": ["Repository"],
