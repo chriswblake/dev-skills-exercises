@@ -1,0 +1,14 @@
+{
+  "slug": "intro-to-issues",
+  "status": "tentative",
+  "name": "Introduction to Issues",
+  "icon": "IssueOpenedIcon",
+  "description": "Learn how to create, manage, and organize GitHub Issues for project tracking.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "project-management",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": 600, "y": 100 },
+  "products": ["Repository", "Issues"],
+  "difficulty": "Beginner"
+}

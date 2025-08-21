@@ -1,0 +1,14 @@
+{
+  "slug": "discussions",
+  "status": "tentative",
+  "name": "Discussions",
+  "icon": "CommentDiscussionIcon",
+  "description": "Learn how to use GitHub Discussions to build community and facilitate conversations.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "project-management",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": 700, "y": 150 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}

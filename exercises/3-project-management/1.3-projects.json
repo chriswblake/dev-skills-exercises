@@ -1,0 +1,14 @@
+{
+  "slug": "projects",
+  "status": "tentative",
+  "name": "GitHub Projects",
+  "icon": "ProjectIcon",
+  "description": "Learn how to use GitHub Projects to plan, track, and organize your work.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "project-management",
+  "dependencies": ["intro-to-issues"],
+  "position": { "x": 100, "y": 100 },
+  "products": ["Issues", "Projects"],
+  "difficulty": "Intermediate"
+}

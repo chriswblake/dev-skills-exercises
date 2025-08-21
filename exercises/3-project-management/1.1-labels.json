@@ -1,0 +1,14 @@
+{
+  "slug": "labels",
+  "status": "tentative",
+  "name": "Labels",
+  "icon": "TagIcon",
+  "description": "Learn how to use labels to categorize and organize issues and pull requests.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "project-management",
+  "dependencies": ["intro-to-issues"],
+  "position": { "x": -100, "y": 100 },
+  "products": ["Issues"],
+  "difficulty": "Beginner"
+}

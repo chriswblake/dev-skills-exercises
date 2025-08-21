@@ -1,0 +1,14 @@
+{
+  "slug": "issue-and-pr-templates",
+  "status": "tentative",
+  "name": "Issue and PR Templates",
+  "icon": "FileTemplateIcon",
+  "description": "Create templates to standardize issue and pull request submissions.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "project-management",
+  "dependencies": ["intro-to-issues"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Issues"],
+  "difficulty": "Intermediate"
+}
