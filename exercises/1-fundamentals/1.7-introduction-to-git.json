@@ -2,7 +2,7 @@
   "slug": "introduction-to-git",
   "status": "tentative",
   "name": "Introduction to Git",
-  "icon": "git-branch",
+  "icon": "GitBranchIcon",
   "description": "Learn the basics of Git version control.",
   "repositoryUrl": "",
   "issueUrl": "https://github.com/skills/introduction-to-github/issues/862",

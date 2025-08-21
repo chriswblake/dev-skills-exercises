@@ -2,7 +2,7 @@
   "slug": "introduction-to-codeql",
   "status": "active",
   "name": "Introduction to CodeQL",
-  "icon": "codescan-checkmark",
+  "icon": "CodescanCheckmarkIcon",
   "description": "Learn how to enable CodeQL to secure your code.",
   "repositoryUrl": "https://github.com/skills-dev/introduction-to-codeql",
   "issueUrl": "",

@@ -2,7 +2,7 @@
   "slug": "test-with-actions",
   "status": "active",
   "name": "Test with Actions",
-  "icon": "beaker",
+  "icon": "BeakerIcon",
   "description": "Create workflows that enable you to use Continuous Integration (CI) for your projects.",
   "repositoryUrl": "https://github.com/skills-dev/test-with-actions",
   "issueUrl": "",

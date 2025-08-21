@@ -2,7 +2,7 @@
   "slug": "getting-started-with-github-copilot",
   "status": "active",
   "name": "Getting Started with GitHub Copilot",
-  "icon": "copilot",
+  "icon": "CopilotIcon",
   "description": "Learn, build, debug, and ship faster than ever with your favorite AI pair programmer.",
   "repositoryUrl": "https://github.com/skills/getting-started-with-github-copilot",
   "issueUrl": "",

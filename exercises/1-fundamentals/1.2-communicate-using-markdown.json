@@ -2,7 +2,7 @@
   "slug": "communicate-using-markdown",
   "status": "active",
   "name": "Communicate using Markdown",
-  "icon": "markdown",
+  "icon": "MarkdownIcon",
   "description": "Organize ideas and collaborate using Markdown, a lightweight language for text formatting.",
   "repositoryUrl": "https://github.com/skills/markdown-portfolio",
   "issueUrl": "",

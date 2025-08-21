@@ -2,7 +2,7 @@
   "slug": "resolve-merge-conflicts",
   "status": "active",
   "name": "Resolve merge conflicts",
-  "icon": "git-merge",
+  "icon": "GitMergeIcon",
   "description": "Learn why conflicts happen and how to resolve them.",
   "repositoryUrl": "https://github.com/skills-dev/resolve-merge-conflicts",
   "issueUrl": "",

@@ -2,7 +2,7 @@
   "slug": "integrate-mcp-with-github-copilot",
   "status": "active",
   "name": "Integrate MCP with GitHub Copilot",
-  "icon": "plug",
+  "icon": "PlugIcon",
   "description": "Give GitHub Copilot more tools to enhance its capabilities.",
   "repositoryUrl": "https://github.com/skills/integrate-mcp-with-copilot",
   "issueUrl": "",

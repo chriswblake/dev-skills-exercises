@@ -2,7 +2,7 @@
   "slug": "your-first-extension-for-github-copilot",
   "status": "active",
   "name": "Your first extension for GitHub Copilot",
-  "icon": "package",
+  "icon": "AppsIcon",
   "description": "Teach GitHub Copilot about your industry, lingo, and company processes.",
   "repositoryUrl": "https://github.com/skills/your-first-extension-for-github-copilot",
   "issueUrl": "",

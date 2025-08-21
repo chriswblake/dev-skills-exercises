@@ -2,7 +2,7 @@
   "slug": "code-with-codespaces",
   "status": "active",
   "name": "Code with Codespaces",
-  "icon": "codespaces",
+  "icon": "CodespacesIcon",
   "description": "Develop code using GitHub Codespaces and Visual Studio Code.",
   "repositoryUrl": "https://github.com/skills-dev/code-with-codespaces",
   "issueUrl": "",

@@ -2,7 +2,7 @@
   "slug": "introduction-to-github",
   "status": "active",
   "name": "Introduction to GitHub",
-  "icon": "mark-github",
+  "icon": "MarkGithubIcon",
   "description": "Get started using GitHub in less than an hour.",
   "repositoryUrl": "https://github.com/skills-dev/introduction-to-github",
   "issueUrl": "",

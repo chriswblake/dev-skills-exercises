@@ -2,7 +2,7 @@
   "slug": "secure-repository-supply-chain",
   "status": "active",
   "name": "Secure your repository supply chain",
-  "icon": "shield",
+  "icon": "ShieldCheckIcon",
   "description": "Secure your supply chain, patch dependency vulnerabilities.",
   "repositoryUrl": "https://github.com/skills-dev/secure-repository-supply-chain",
   "issueUrl": "",

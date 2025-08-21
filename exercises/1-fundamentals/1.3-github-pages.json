@@ -2,7 +2,7 @@
   "slug": "github-pages",
   "status": "active",
   "name": "GitHub Pages",
-  "icon": "browser",
+  "icon": "BrowserIcon",
   "description": "Create a site or blog from your GitHub repositories with GitHub Pages.",
   "repositoryUrl": "https://github.com/skills-dev/github-pages",
   "issueUrl": "",

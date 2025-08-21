@@ -2,7 +2,7 @@
   "slug": "expand-your-team-with-copilot",
   "status": "active",
   "name": "Expand your team with Copilot coding agent",
-  "icon": "people",
+  "icon": "PeopleIcon",
   "description": "Let Copilot coding agent tackle your issues directly on GitHub. No coding environment needed.",
   "repositoryUrl": "https://github.com/skills/expand-your-team-with-copilot",
   "issueUrl": "",

@@ -2,7 +2,7 @@
   "slug": "migrate-ado-repository",
   "status": "active",
   "name": "Migrate an Azure DevOps Repository",
-  "icon": "arrow-switch",
+  "icon": "RepoPullIcon",
   "description": "Create a sample Azure DevOps project then migrate it to GitHub using the CLI.",
   "repositoryUrl": "https://github.com/skills/migrate-ado-repository",
   "issueUrl": "",

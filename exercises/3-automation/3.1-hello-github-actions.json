@@ -2,7 +2,7 @@
   "slug": "hello-github-actions",
   "status": "active",
   "name": "Hello GitHub Actions",
-  "icon": "workflow",
+  "icon": "WorkflowIcon",
   "description": "Create a GitHub Action and use it in a workflow.",
   "repositoryUrl": "https://github.com/skills-dev/hello-github-actions",
   "issueUrl": "",
