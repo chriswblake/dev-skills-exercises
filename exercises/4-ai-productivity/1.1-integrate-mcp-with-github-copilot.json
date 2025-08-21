@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "ai-productivity",
   "dependencies": ["getting-started-with-github-copilot"],
-  "position": { "x": 0, "y": 100 },
+  "position": { "x": -100, "y": 100 },
   "products": ["Copilot"],
   "difficulty": "Intermediate"
 }
