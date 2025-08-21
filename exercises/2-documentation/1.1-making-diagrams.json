@@ -2,7 +2,7 @@
   "slug": "making-diagrams",
   "status": "tentative",
   "name": "Making Diagrams",
-  "icon": "DiagramIcon",
+  "icon": "ProjectRoadmapIcon",
   "description": "Create visual diagrams and charts using Mermaid syntax in GitHub.",
   "repositoryUrl": "",
   "issueUrl": "",
