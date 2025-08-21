@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "security",
   "dependencies": ["introduction-to-repository-management"],
-  "position": { "x": 100, "y": 100 },
+  "position": { "x": 0, "y": 100 },
   "products": ["Code Scanning"],
   "difficulty": "Intermediate"
 }

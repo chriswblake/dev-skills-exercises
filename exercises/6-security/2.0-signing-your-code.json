@@ -1,0 +1,14 @@
+{
+  "slug": "signing-your-code",
+  "status": "tentative",
+  "name": "Signing your code",
+  "icon": "VerifiedIcon",
+  "description": "Use GPG keys to sign your work and verify commits.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "security",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": 300, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Intermediate"
+}
