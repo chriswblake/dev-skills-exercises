@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "repository",
   "dependencies": ["introduction-to-git"],
-  "position": { "x": -100, "y": 100 },
+  "position": { "x": -200, "y": 100 },
   "products": ["Repository"],
   "difficulty": "Beginner"
 }
