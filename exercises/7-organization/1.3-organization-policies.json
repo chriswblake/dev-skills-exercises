@@ -1,0 +1,14 @@
+{
+  "slug": "organization-policies",
+  "status": "tentative",
+  "name": "Organization Policies",
+  "icon": "ChecklistIcon",
+  "description": "Set policies to protect your repositories and ensure complance.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "organization",
+  "dependencies": ["introduction-to-organizations"],
+  "position": { "x": 50, "y": 100 },
+  "products": ["Organization"],
+  "difficulty": "Intermediate"
+}

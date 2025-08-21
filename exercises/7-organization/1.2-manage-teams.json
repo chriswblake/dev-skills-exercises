@@ -1,0 +1,14 @@
+{
+  "slug": "manage-teams",
+  "status": "tentative",
+  "name": "Manage Teams",
+  "icon": "PeopleIcon",
+  "description": "Learn how to create and manage teams within GitHub Organizations.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "organization",
+  "dependencies": ["introduction-to-organizations"],
+  "position": { "x": -50, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Intermediate"
+}

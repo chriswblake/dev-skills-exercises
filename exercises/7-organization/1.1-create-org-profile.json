@@ -1,0 +1,14 @@
+{
+  "slug": "create-org-profile",
+  "status": "tentative",
+  "name": "Create Organization Profile",
+  "icon": "OrganizationIcon",
+  "description": "Learn how to create an attractive organization profile to showcase your team.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "organization",
+  "dependencies": ["introduction-to-organizations"],
+  "position": { "x": -150, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}

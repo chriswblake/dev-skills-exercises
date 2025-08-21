@@ -1,0 +1,14 @@
+{
+  "slug": "audit-logs",
+  "status": "tentative",
+  "name": "Audit Logs",
+  "icon": "ShieldLockIcon",
+  "description": "Learn how to monitor and review organization activity using GitHub audit logs.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "organization",
+  "dependencies": ["introduction-to-organizations"],
+  "position": { "x": 150, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Advanced"
+}

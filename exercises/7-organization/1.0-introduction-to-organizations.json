@@ -1,0 +1,14 @@
+{
+  "slug": "introduction-to-organizations",
+  "status": "tentative",
+  "name": "Introduction to Organizations",
+  "icon": "OrganizationIcon",
+  "description": "Learn how to create and manage GitHub Organizations for team collaboration.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "organization",
+  "dependencies": ["introduction-to-github"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Repository"],
+  "difficulty": "Beginner"
+}
