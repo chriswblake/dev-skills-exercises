@@ -8,7 +8,7 @@
   "issueUrl": "",
   "pathSlug": "ai-productivity",
   "dependencies": ["customize-your-github-copilot-experience"],
-  "position": { "x": 0, "y": 100 },
-  "products": ["Repository"],
+  "position": { "x": 50, "y": 100 },
+  "products": ["Copilot"],
   "difficulty": "Advanced"
 }
