@@ -1,0 +1,14 @@
+{
+  "slug": "add-ai-to-a-workflow",
+  "status": "tentative",
+  "name": "Add AI to a Workflow",
+  "icon": "AiModelIcon",
+  "description": "Learn how to integrate AI capabilities into your GitHub Actions workflows.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "automation",
+  "dependencies": ["hello-github-actions"],
+  "position": { "x": -50, "y": 100 },
+  "products": ["Actions", "Copilot"],
+  "difficulty": "Advanced"
+}

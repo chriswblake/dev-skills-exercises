@@ -1,0 +1,14 @@
+{
+  "slug": "write-javascript-actions",
+  "status": "tentative",
+  "name": "Write JavaScript Actions",
+  "icon": "CodeSquareIcon",
+  "description": "Learn how to create custom GitHub Actions using JavaScript and Node.js.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "automation",
+  "dependencies": ["hello-github-actions"],
+  "position": { "x": -150, "y": 100 },
+  "products": ["Actions"],
+  "difficulty": "Advanced"
+}

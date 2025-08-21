@@ -1,0 +1,14 @@
+{
+  "slug": "reusable-workflows",
+  "status": "tentative",
+  "name": "Reusable Workflows",
+  "icon": "WorkflowIcon",
+  "description": "Learn how to create and use reusable workflows to reduce duplication in your automation.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "automation",
+  "dependencies": ["hello-github-actions"],
+  "position": { "x": -250, "y": 100 },
+  "products": ["Actions"],
+  "difficulty": "Intermediate"
+}

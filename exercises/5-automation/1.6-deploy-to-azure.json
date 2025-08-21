@@ -1,0 +1,14 @@
+{
+  "slug": "deploy-to-azure",
+  "status": "tentative",
+  "name": "Deploy to Azure",
+  "icon": "CloudIcon",
+  "description": "Learn how to deploy applications to Azure using GitHub Actions.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "automation",
+  "dependencies": ["hello-github-actions"],
+  "position": { "x": 250, "y": 100 },
+  "products": ["Actions"],
+  "difficulty": "Intermediate"
+}

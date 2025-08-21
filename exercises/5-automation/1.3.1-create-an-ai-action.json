@@ -1,0 +1,14 @@
+{
+  "slug": "create-an-ai-action",
+  "status": "tentative",
+  "name": "Create an AI Action",
+  "icon": "AiModelIcon",
+  "description": "Learn how to build a custom GitHub Action that leverages AI capabilities.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "automation",
+  "dependencies": ["write-javascript-actions","add-ai-to-a-workflow"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Actions", "Models"],
+  "difficulty": "Advanced"
+}
