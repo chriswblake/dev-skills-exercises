@@ -1,0 +1,14 @@
+{
+  "slug": "making-diagrams",
+  "status": "tentative",
+  "name": "Making Diagrams",
+  "icon": "DiagramIcon",
+  "description": "Create visual diagrams and charts using Mermaid syntax in GitHub.",
+  "repositoryUrl": "",
+  "issueUrl": "",
+  "pathSlug": "documentation",
+  "dependencies": ["communicate-using-markdown"],
+  "position": { "x": 0, "y": 100 },
+  "products": ["Markdown"],
+  "difficulty": "Intermediate"
+}

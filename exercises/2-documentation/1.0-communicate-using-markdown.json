@@ -6,9 +6,9 @@
   "description": "Organize ideas and collaborate using Markdown, a lightweight language for text formatting.",
   "repositoryUrl": "https://github.com/skills/markdown-portfolio",
   "issueUrl": "",
-  "pathSlug": "repository",
+  "pathSlug": "documentation",
   "dependencies": ["introduction-to-github"],
-  "position": { "x": -250, "y": 100 },
-  "products": ["Repository"],
+  "position": { "x": -150, "y": 100 },
+  "products": ["Markdown"],
   "difficulty": "Beginner"
 }
