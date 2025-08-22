@@ -1,6 +1,6 @@
 {
   "slug": "add-ai-to-a-workflow",
-  "status": "tentative",
+  "status": "in-progress",
   "name": "Add AI to a Workflow",
   "icon": "AiModelIcon",
   "description": "Learn how to integrate AI capabilities into your GitHub Actions workflows.",
