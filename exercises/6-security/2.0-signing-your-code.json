@@ -1,11 +1,11 @@
 {
   "slug": "signing-your-code",
   "status": "tentative",
-  "name": "Signing your code",
+  "name": "Signing your Code",
   "icon": "VerifiedIcon",
   "description": "Use GPG keys to sign your work and verify commits.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/24",
   "pathSlug": "security",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 150, "y": 100 },
