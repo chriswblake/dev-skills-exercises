@@ -5,7 +5,7 @@
   "icon": "CommentDiscussionIcon",
   "description": "Learn how to use GitHub Discussions to build community and facilitate conversations.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/29",
   "pathSlug": "project-management",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 650, "y": 100 },

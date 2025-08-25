@@ -5,7 +5,7 @@
   "icon": "IssueOpenedIcon",
   "description": "Learn how to create, manage, and organize GitHub Issues for project tracking.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/25",
   "pathSlug": "project-management",
   "dependencies": ["introduction-to-github"],
   "position": { "x": 550, "y": 100 },

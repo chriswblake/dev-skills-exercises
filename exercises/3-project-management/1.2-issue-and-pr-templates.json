@@ -1,11 +1,11 @@
 {
   "slug": "issue-and-pr-templates",
   "status": "tentative",
-  "name": "Issue and PR Templates",
+  "name": "Issue and Pull Request Templates",
   "icon": "IssueDraftIcon",
   "description": "Create templates to standardize issue and pull request submissions.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/27",
   "pathSlug": "project-management",
   "dependencies": ["intro-to-issues"],
   "position": { "x": 0, "y": 100 },
