@@ -5,7 +5,7 @@
   "icon": "ShieldLockIcon",
   "description": "Learn how to monitor and review organization activity using GitHub audit logs.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/23",
   "pathSlug": "organization",
   "dependencies": ["introduction-to-organizations"],
   "position": { "x": 150, "y": 100 },

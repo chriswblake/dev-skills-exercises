@@ -5,7 +5,7 @@
   "icon": "OrganizationIcon",
   "description": "Learn how to create and manage GitHub Organizations for team collaboration.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/19",
   "pathSlug": "organization",
   "dependencies": ["introduction-to-github"],
   "position": { "x": -200, "y": 300 },

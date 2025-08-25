@@ -5,7 +5,7 @@
   "icon": "ChecklistIcon",
   "description": "Set policies to protect your repositories and ensure complance.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/22",
   "pathSlug": "organization",
   "dependencies": ["introduction-to-organizations"],
   "position": { "x": 50, "y": 100 },

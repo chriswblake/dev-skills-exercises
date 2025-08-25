@@ -1,11 +1,11 @@
 {
   "slug": "create-org-profile",
   "status": "tentative",
-  "name": "Create Organization Profile",
+  "name": "Create an Organization Profile",
   "icon": "OrganizationIcon",
   "description": "Learn how to create an attractive organization profile to showcase your team.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/20",
   "pathSlug": "organization",
   "dependencies": ["introduction-to-organizations"],
   "position": { "x": -150, "y": 100 },
