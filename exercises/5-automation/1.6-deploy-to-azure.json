@@ -5,7 +5,7 @@
   "icon": "CloudIcon",
   "description": "Learn how to deploy applications to Azure using GitHub Actions.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/36",
   "pathSlug": "automation",
   "dependencies": ["hello-github-actions"],
   "position": { "x": 250, "y": 100 },

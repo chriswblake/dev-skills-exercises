@@ -5,7 +5,7 @@
   "icon": "TagIcon",
   "description": "Learn how to automate your release process using GitHub Actions and semantic versioning.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/35",
   "pathSlug": "automation",
   "dependencies": ["hello-github-actions"],
   "position": { "x": 150, "y": 100 },

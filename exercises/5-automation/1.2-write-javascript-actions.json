@@ -5,7 +5,7 @@
   "icon": "CodeSquareIcon",
   "description": "Learn how to create custom GitHub Actions using JavaScript and Node.js.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/31",
   "pathSlug": "automation",
   "dependencies": ["hello-github-actions"],
   "position": { "x": -150, "y": 100 },

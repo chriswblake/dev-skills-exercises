@@ -5,7 +5,7 @@
   "icon": "WorkflowIcon",
   "description": "Learn how to create and use reusable workflows to reduce duplication in your automation.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/30",
   "pathSlug": "automation",
   "dependencies": ["hello-github-actions"],
   "position": { "x": -250, "y": 100 },

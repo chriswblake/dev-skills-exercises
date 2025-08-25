@@ -5,7 +5,7 @@
   "icon": "AiModelIcon",
   "description": "Learn how to build a custom GitHub Action that leverages AI capabilities.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/33",
   "pathSlug": "automation",
   "dependencies": ["write-javascript-actions","add-ai-to-a-workflow"],
   "position": { "x": 0, "y": 100 },
