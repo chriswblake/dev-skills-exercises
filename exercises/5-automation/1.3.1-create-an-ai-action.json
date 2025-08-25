@@ -1,6 +1,6 @@
 {
   "slug": "create-an-ai-action",
-  "status": "tentative",
+  "status": "scheduled",
   "name": "Create an AI Action",
   "icon": "AiModelIcon",
   "description": "Learn how to build a custom GitHub Action that leverages AI capabilities.",
