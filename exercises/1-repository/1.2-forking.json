@@ -5,7 +5,7 @@
   "icon": "RepoForkedIcon",
   "description": "Learn how to fork repositories and contribute to projects you don't own.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/16",
   "pathSlug": "repository",
   "dependencies": ["introduction-to-git"],
   "position": { "x": 0, "y": 100 },

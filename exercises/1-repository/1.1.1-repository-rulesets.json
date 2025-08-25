@@ -1,11 +1,11 @@
 {
-  "slug": "rulesets",
+  "slug": "repository-rulesets",
   "status": "tentative",
   "name": "Repository Rulesets",
   "icon": "ShieldIcon",
   "description": "Learn how to protect your repository with branch protection rules and rulesets.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/13",
   "pathSlug": "repository",
   "dependencies": ["branching-and-merging"],
   "position": { "x": -100, "y": 100 },

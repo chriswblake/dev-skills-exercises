@@ -5,7 +5,7 @@
   "icon": "GitBranchIcon",
   "description": "Learn how to create branches, make changes, and merge them back into the main branch.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/12",
   "pathSlug": "repository",
   "dependencies": ["introduction-to-git"],
   "position": { "x": -200, "y": 100 },

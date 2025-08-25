@@ -5,7 +5,7 @@
   "icon": "HeartIcon",
   "description": "Learn how to contribute to open source projects through forks and pull requests.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/17",
   "pathSlug": "repository",
   "dependencies": ["forking"],
   "position": { "x": 0, "y": 100 },

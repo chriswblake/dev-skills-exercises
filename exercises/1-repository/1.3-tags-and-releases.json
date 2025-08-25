@@ -5,7 +5,7 @@
   "icon": "TagIcon",
   "description": "Learn how to create tags and releases to mark important milestones in your project.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/18",
   "pathSlug": "repository",
   "dependencies": ["introduction-to-git"],
   "position": { "x": 100, "y": 100 },

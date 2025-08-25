@@ -5,7 +5,7 @@
   "icon": "GitMergeIcon",
   "description": "Learn why conflicts happen and how to resolve them.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/14",
   "pathSlug": "repository",
   "dependencies": ["branching-and-merging"],
   "position": { "x": 0, "y": 100 },

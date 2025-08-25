@@ -5,7 +5,7 @@
   "icon": "HistoryIcon",
   "description": "Learn how to rewrite Git history using rebase, squash, and other advanced Git techniques.",
   "repositoryUrl": "",
-  "issueUrl": "",
+  "issueUrl": "https://github.com/skills-dev-2/github-skills-tree/issues/15",
   "pathSlug": "repository",
   "dependencies": ["branching-and-merging"],
   "position": { "x": 100, "y": 100 },
